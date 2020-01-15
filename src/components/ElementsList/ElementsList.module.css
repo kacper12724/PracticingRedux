@@ -1,0 +1,15 @@
+.ElementsListUl{
+    padding: 0;
+}
+
+.ElementsListLi{
+    width: 30%;
+    margin: auto;
+    padding: 1rem;
+    border-radius: 5px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
+    justify-content: space-between;
+    display: flex;
+    list-style: none;
+    box-sizing: border-box;
+}

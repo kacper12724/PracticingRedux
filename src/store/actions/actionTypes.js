@@ -1,0 +1,7 @@
+export const ADD = 'ADD'
+export const LOAD = 'LOAD'
+export const LOAD_FILTER = 'LOAD_FILTER'
+export const DELETE = 'DELETE'
+export const FILTER = 'FILTER'
+export const TYPE_TITLE = 'TYPE_TITLE'
+export const TYPE_AMOUNT = 'TYPE_AMOUNT'

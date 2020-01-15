@@ -1,0 +1,37 @@
+.ElementsForm{
+    margin: 10px auto;
+    width: 30%;
+}
+
+.ElementsFormInput{
+    font: inherit;
+    padding: 0.1rem 0.25rem;
+    border: none;
+    border-bottom: 2px solid #ccc;
+    margin-bottom: 1rem;
+    box-sizing: border-box;
+    outline: none;
+}
+
+.ElementsFormLabel, .ElementsFormInput{
+    display: block;
+    width: 100%;
+    text-align: left;
+}
+
+.ElementsFormButton{
+    font: inherit;
+    background: #ff2058;
+    padding: 0.5rem 2rem;
+    color: white;
+    border: 1px solid #ff2058;
+    margin: 0.5rem 0;
+    border-radius: 5px;
+    cursor: pointer;
+    outline: none;
+}
+
+.ElementsFormButton:hover{
+    background: #fa1018;
+    border: 1px solid #fa1018;
+}
